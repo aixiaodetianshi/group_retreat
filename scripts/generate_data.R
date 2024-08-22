@@ -8,6 +8,8 @@
 # Set seed to obtain reproducible pseudo-random numbers.
 set.seed(5) 
 
+print('please send me your new ideas for the code, lets make the code perfect')
+
 # Generate base data based on a linear equation
 x <- 1:100
 a <- runif(1,0,10)
