@@ -3,6 +3,8 @@
 
 ### Generate a random dataset to fit a linear model ----
 
+# I make a change and Weixiao sees this
+
 # Set seed to obtain reproducible pseudo-random numbers.
 set.seed(5) 
 
