@@ -21,6 +21,9 @@ y <- y + rnorm(length(y), 0, sigma)
 # Generate dataframe
 my_data <- data.frame(x = x, y = y)
 
+# Plot 
+plot(x,y, col = x)
+
 # Save data
 write.csv(my_data,file = "data/my_data.csv", row.names = F)
 
